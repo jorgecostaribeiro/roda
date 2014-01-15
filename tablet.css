@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+#flyer{
+	
+	width: 300px;
+	height: 280px;
+	background-image: url(img.png);
+	background-repeat: no-repeat;
+	float: right;
+	
+	}
+	
+.img{
+	
+	float: left;
+	margin: 0px;
+	
+	}
+
+#nomes{
+	border: 1px solid #443344;
+	width: 190px;
+	float:left;
+	height : 280px; 
+	}	
+.namedivmira{
+	
+	background-color:#b700fb;
+	height: 85px;
+	padding: 5px;
+	
+	}
+	
+.namedivmi{
+	
+	background-color:#abfb00;
+	height: 85px;
+	padding: 5px;
+	
+	}
+	
+.namedivjoto{
+	
+	background-color:#fb8e00;
+	height: 85px;
+	padding: 5px;
+	
+	}
+
+#content{
+	padding-bottom: 10px;
+	background-color: #ffffff;
+	height:: 400px;
+	}	
+	
+.btn{
+	
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #222222;
+	color: #ff0000;
+	border : 1px groved #ff0000;
+	float : left; 
+	width: 50px; 
+	margin-left : 5px; 
+	margin-bottom : 5px; 
+	
+	}
+
+#rodacontent{
+	height : 260px; 
+	width: 100px;
+	float: left;
+	background-color: #620063;
+	margin-right: 10px;
+	padding : 10px; 
+	}
+	
+#rodarbtn{
+	
+	padding: 10px;
+	border-radius: 40px;
+	background-color: #ff00c0;
+	margin-bottom: 20px;
+	color : #f0ff00; 
+	font-size: 20px;
+	border : solid 1px #fcff00; 
+	height: 80px;
+	text-align: center;
+
+	}
+	
+#roda{
+	
+	margin: 10px;
+	padding : 10px; 
+	
+	}	
